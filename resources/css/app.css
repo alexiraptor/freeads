@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.vp{
+    background-color: red;
+    height: 100px;
+    width: 10px;
+}
